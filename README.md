@@ -1,1 +1,5 @@
-Voi pune imagini cu proiectul in acest README, deci nu voi face un folder special pentru acest lucru.
+Diagrama proiectului:
+
+<p align="center">
+  <img src="diagram.png" width="600">
+</p>
