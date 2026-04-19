@@ -15,3 +15,5 @@ Diagrama proiectului:
 | PFET (EPD power) | SI2301CDS | SOT-23 | E-paper display power gating | C10487 | [Datasheet](https://jlcpcb.com/partdetail/Changjiang_Electronics_Tech_CJ-SI2301CDS/C10487) |
 | USB ESD Protection | USBLC6-2SC6Y | SOT-23-6 | ESD protection on USB data lines | C7519 | [Datasheet](https://www.st.com/resource/en/datasheet/usblc6-2.pdf) |
 
+| USB Type-C Connector | KH-TYPE-C-16P | 16-pin SMD | USB charging + data | C7519 | [Datasheet](| USB ESD Protection | USBLC6-2SC6Y | SOT-23-6 | ESD protection on USB data lines | C7519 | [Datasheet](https://www.st.com/resource/en/datasheet/usblc6-2.pdf) |
+) |
