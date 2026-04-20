@@ -1940,6 +1940,240 @@ XTAL SMD 3.2 x 1.5 mm</description>
 <wire x1="-5.8" y1="2.325" x2="-5.7" y2="2.325" width="0.1" layer="21" curve="180"/>
 <wire x1="-5.7" y1="2.325" x2="-5.8" y2="2.325" width="0.1" layer="21" curve="180"/>
 </package>
+<package name="NORDIC_NRF_3_RESC0201_L" library_version="1">
+<description>&lt;b&gt;0201&lt;/b&gt; chip&lt;p&gt;
+0201 (imperial)&lt;br/&gt;
+0603 (metric)&lt;br/&gt;
+IPC High Density</description>
+<smd name="1" x="-0.255" y="0" dx="0.28" dy="0.43" layer="1"/>
+<smd name="2" x="0.255" y="0" dx="0.28" dy="0.43" layer="1"/>
+<text x="-2" y="1" size="1.27" layer="25">&gt;NAME</text>
+<text x="-2" y="-2" size="1.27" layer="27">&gt;VALUE</text>
+<wire x1="-0.3" y1="0.15" x2="-0.3" y2="-0.15" width="0.1" layer="51"/>
+<wire x1="-0.3" y1="-0.15" x2="0.3" y2="-0.15" width="0.1" layer="51"/>
+<wire x1="0.3" y1="-0.15" x2="0.3" y2="0.15" width="0.1" layer="51"/>
+<wire x1="0.3" y1="0.15" x2="-0.3" y2="0.15" width="0.1" layer="51"/>
+<wire x1="-0.5" y1="-0.3" x2="0.5" y2="-0.3" width="0.1" layer="39"/>
+<wire x1="0.5" y1="-0.3" x2="0.5" y2="0.3" width="0.1" layer="39"/>
+<wire x1="0.5" y1="0.3" x2="-0.5" y2="0.3" width="0.1" layer="39"/>
+<wire x1="-0.5" y1="0.3" x2="-0.5" y2="-0.3" width="0.1" layer="39"/>
+</package>
+<package name="NORDIC_NRF_3_RESC0201_M" library_version="1">
+<description>&lt;b&gt;0201&lt;/b&gt; chip&lt;p&gt;
+0201 (imperial)&lt;br/&gt;
+0603 (metric)&lt;br/&gt;
+IPC Low Density</description>
+<smd name="1" x="-0.355" y="0" dx="0.5" dy="0.55" layer="1"/>
+<smd name="2" x="0.355" y="0" dx="0.5" dy="0.55" layer="1"/>
+<text x="-0.4" y="1.1" size="1.27" layer="25">&gt;NAME</text>
+<text x="-0.635" y="-1.905" size="1.27" layer="27">&gt;VALUE</text>
+<wire x1="-0.3" y1="0.15" x2="-0.3" y2="-0.15" width="0.1" layer="51"/>
+<wire x1="-0.3" y1="-0.15" x2="0.3" y2="-0.15" width="0.1" layer="51"/>
+<wire x1="0.3" y1="-0.15" x2="0.3" y2="0.15" width="0.1" layer="51"/>
+<wire x1="0.3" y1="0.15" x2="-0.3" y2="0.15" width="0.1" layer="51"/>
+<wire x1="0.8" y1="-0.5" x2="0.8" y2="0.5" width="0.1" layer="39"/>
+<wire x1="0.8" y1="0.5" x2="-0.8" y2="0.5" width="0.1" layer="39"/>
+<wire x1="-0.8" y1="0.5" x2="-0.8" y2="-0.5" width="0.1" layer="39"/>
+<wire x1="-0.8" y1="-0.5" x2="0.8" y2="-0.5" width="0.1" layer="39"/>
+</package>
+<package name="NORDIC_NRF_3_RESC0201_N" library_version="1">
+<description>&lt;b&gt;0201&lt;/b&gt; chip&lt;p&gt;
+0201 (imperial)&lt;br/&gt;
+0603 (metric)&lt;br/&gt;
+IPC Nominal Density</description>
+<smd name="1" x="-0.305" y="0" dx="0.4" dy="0.45" layer="1"/>
+<smd name="2" x="0.305" y="0" dx="0.4" dy="0.45" layer="1"/>
+<text x="-0.635" y="0.635" size="1.27" layer="25">&gt;NAME</text>
+<text x="-0.635" y="-1.905" size="1.27" layer="27">&gt;VALUE</text>
+<wire x1="-0.3" y1="0.15" x2="-0.3" y2="-0.15" width="0.1" layer="51"/>
+<wire x1="-0.3" y1="-0.15" x2="0.3" y2="-0.15" width="0.1" layer="51"/>
+<wire x1="0.3" y1="-0.15" x2="0.3" y2="0.15" width="0.1" layer="51"/>
+<wire x1="0.3" y1="0.15" x2="-0.3" y2="0.15" width="0.1" layer="51"/>
+<wire x1="0.65" y1="-0.35" x2="0.65" y2="0.35" width="0.1" layer="39"/>
+<wire x1="0.65" y1="0.35" x2="-0.65" y2="0.35" width="0.1" layer="39"/>
+<wire x1="-0.65" y1="0.35" x2="-0.65" y2="-0.35" width="0.1" layer="39"/>
+<wire x1="-0.65" y1="-0.35" x2="0.65" y2="-0.35" width="0.1" layer="39"/>
+</package>
+<package name="NORDIC_NRF_3_RESC0402_L" library_version="1">
+<description>&lt;b&gt;0402&lt;/b&gt; chip &lt;p&gt;
+
+0402 (imperial)&lt;br/&gt;
+1005 (metric)&lt;br/&gt;
+IPC High Density</description>
+<smd name="1" x="-0.5" y="0" dx="0.5" dy="0.6" layer="1"/>
+<smd name="2" x="0.5" y="0" dx="0.5" dy="0.6" layer="1"/>
+<text x="-1" y="1" size="1.27" layer="25">&gt;NAME</text>
+<text x="-1" y="-2" size="1.27" layer="27">&gt;VALUE</text>
+<rectangle x1="-0.1999" y1="-0.4001" x2="0.1999" y2="0.4001" layer="35"/>
+<wire x1="-0.5" y1="0.25" x2="0.5" y2="0.25" width="0.1" layer="51"/>
+<wire x1="0.5" y1="0.25" x2="0.5" y2="-0.25" width="0.1" layer="51"/>
+<wire x1="0.5" y1="-0.25" x2="-0.5" y2="-0.25" width="0.1" layer="51"/>
+<wire x1="-0.5" y1="-0.25" x2="-0.5" y2="0.25" width="0.1" layer="51"/>
+<wire x1="0.85" y1="-0.4" x2="0.85" y2="0.4" width="0.1" layer="39"/>
+<wire x1="0.85" y1="0.4" x2="-0.85" y2="0.4" width="0.1" layer="39"/>
+<wire x1="-0.85" y1="0.4" x2="-0.85" y2="-0.4" width="0.1" layer="39"/>
+<wire x1="-0.85" y1="-0.4" x2="0.85" y2="-0.4" width="0.1" layer="39"/>
+</package>
+<package name="NORDIC_NRF_3_RESC0402_M" library_version="1">
+<description>&lt;b&gt;0402&lt;/b&gt; chip &lt;p&gt;
+
+0402 (imperial)&lt;br/&gt;
+1005 (metric)&lt;br/&gt;
+IPC Low Density</description>
+<smd name="1" x="-0.6" y="0" dx="0.7" dy="0.7" layer="1"/>
+<smd name="2" x="0.6" y="0" dx="0.7" dy="0.7" layer="1"/>
+<text x="-1" y="1" size="1.27" layer="25">&gt;NAME</text>
+<text x="-1" y="-2" size="1.27" layer="27">&gt;VALUE</text>
+<rectangle x1="-0.1999" y1="-0.4001" x2="0.1999" y2="0.4001" layer="35"/>
+<wire x1="-0.5" y1="0.25" x2="0.5" y2="0.25" width="0.1" layer="51"/>
+<wire x1="0.5" y1="0.25" x2="0.5" y2="-0.25" width="0.1" layer="51"/>
+<wire x1="0.5" y1="-0.25" x2="-0.5" y2="-0.25" width="0.1" layer="51"/>
+<wire x1="-0.5" y1="-0.25" x2="-0.5" y2="0.25" width="0.1" layer="51"/>
+<wire x1="1.15" y1="-0.55" x2="1.15" y2="0.55" width="0.1" layer="39"/>
+<wire x1="1.15" y1="0.55" x2="-1.15" y2="0.55" width="0.1" layer="39"/>
+<wire x1="-1.15" y1="0.55" x2="-1.15" y2="-0.55" width="0.1" layer="39"/>
+<wire x1="-1.15" y1="-0.55" x2="1.15" y2="-0.55" width="0.1" layer="39"/>
+</package>
+<package name="NORDIC_NRF_3_RESC0402_N" library_version="1">
+<description>&lt;b&gt;0402&lt;/b&gt; chip &lt;p&gt;
+
+0402 (imperial)&lt;br/&gt;
+1005 (metric)&lt;br/&gt;
+IPC Nominal Density</description>
+<smd name="1" x="-0.55" y="0" dx="0.6" dy="0.6" layer="1"/>
+<smd name="2" x="0.55" y="0" dx="0.6" dy="0.6" layer="1"/>
+<text x="-0.6" y="1.1" size="1.27" layer="25">&gt;NAME</text>
+<text x="-0.7" y="-2" size="1.27" layer="27">&gt;VALUE</text>
+<rectangle x1="-0.1999" y1="-0.4001" x2="0.1999" y2="0.4001" layer="35"/>
+<wire x1="-0.5" y1="0.25" x2="0.5" y2="0.25" width="0.1" layer="51"/>
+<wire x1="0.5" y1="0.25" x2="0.5" y2="-0.25" width="0.1" layer="51"/>
+<wire x1="0.5" y1="-0.25" x2="-0.5" y2="-0.25" width="0.1" layer="51"/>
+<wire x1="-0.5" y1="-0.25" x2="-0.5" y2="0.25" width="0.1" layer="51"/>
+<wire x1="1" y1="-0.45" x2="1" y2="0.45" width="0.1" layer="39"/>
+<wire x1="1" y1="0.45" x2="-1" y2="0.45" width="0.1" layer="39"/>
+<wire x1="-1" y1="0.45" x2="-1" y2="-0.45" width="0.1" layer="39"/>
+<wire x1="-1" y1="-0.45" x2="1" y2="-0.45" width="0.1" layer="39"/>
+</package>
+<package name="NORDIC_NRF_3_RESC0603_L" library_version="1">
+<description>&lt;b&gt;0603&lt;/b&gt; chip &lt;p&gt;
+
+0603 (imperial)&lt;br/&gt;
+1608 (metric)&lt;br/&gt;
+IPC High Density</description>
+<smd name="1" x="-0.7" y="0" dx="0.85" dy="0.8" layer="1"/>
+<smd name="2" x="0.7" y="0" dx="0.85" dy="0.8" layer="1"/>
+<text x="-1" y="1" size="1.27" layer="25">&gt;NAME</text>
+<text x="-1" y="-2" size="1.27" layer="27">&gt;VALUE</text>
+<rectangle x1="-0.1999" y1="-0.4001" x2="0.1999" y2="0.4001" layer="35"/>
+<wire x1="-0.8" y1="0.4" x2="0.8" y2="0.4" width="0.127" layer="51"/>
+<wire x1="0.8" y1="0.4" x2="0.8" y2="-0.4" width="0.127" layer="51"/>
+<wire x1="0.8" y1="-0.4" x2="-0.8" y2="-0.4" width="0.127" layer="51"/>
+<wire x1="-0.8" y1="-0.4" x2="-0.8" y2="0.4" width="0.127" layer="51"/>
+<wire x1="1.25" y1="-0.5" x2="1.25" y2="0.5" width="0.1" layer="39"/>
+<wire x1="1.25" y1="0.5" x2="-1.25" y2="0.5" width="0.1" layer="39"/>
+<wire x1="-1.25" y1="0.5" x2="-1.25" y2="-0.5" width="0.1" layer="39"/>
+<wire x1="-1.25" y1="-0.5" x2="1.25" y2="-0.5" width="0.1" layer="39"/>
+</package>
+<package name="NORDIC_NRF_3_RESC0603_M" library_version="1">
+<description>&lt;b&gt;0603&lt;/b&gt; chip &lt;p&gt;
+
+0603 (imperial)&lt;br/&gt;
+1608 (metric)&lt;br/&gt;
+IPC High Density</description>
+<smd name="1" x="-0.9" y="0" dx="1.25" dy="1" layer="1"/>
+<smd name="2" x="0.9" y="0" dx="1.25" dy="1" layer="1"/>
+<text x="-1" y="2" size="1.27" layer="25">&gt;NAME</text>
+<text x="-1" y="-3" size="1.27" layer="27">&gt;VALUE</text>
+<rectangle x1="-0.1999" y1="-0.4001" x2="0.1999" y2="0.4001" layer="35"/>
+<wire x1="-0.8" y1="0.4" x2="0.8" y2="0.4" width="0.127" layer="51"/>
+<wire x1="0.8" y1="0.4" x2="0.8" y2="-0.4" width="0.127" layer="51"/>
+<wire x1="0.8" y1="-0.4" x2="-0.8" y2="-0.4" width="0.127" layer="51"/>
+<wire x1="-0.8" y1="-0.4" x2="-0.8" y2="0.4" width="0.127" layer="51"/>
+<wire x1="2" y1="-1" x2="2" y2="1" width="0.1" layer="39"/>
+<wire x1="2" y1="1" x2="-2" y2="1" width="0.1" layer="39"/>
+<wire x1="-2" y1="1" x2="-2" y2="-1" width="0.1" layer="39"/>
+<wire x1="-2" y1="-1" x2="2" y2="-1" width="0.1" layer="39"/>
+</package>
+<package name="NORDIC_NRF_3_RESC0603_N" library_version="1">
+<description>&lt;b&gt;0603&lt;/b&gt; chip &lt;p&gt;
+
+0603 (imperial)&lt;br/&gt;
+1608 (metric)&lt;br/&gt;
+IPC Nominal Density</description>
+<smd name="1" x="-0.8" y="0" dx="1.05" dy="0.9" layer="1"/>
+<smd name="2" x="0.8" y="0" dx="1.05" dy="0.9" layer="1"/>
+<text x="-1" y="1" size="1.27" layer="25">&gt;NAME</text>
+<text x="-1" y="-2.5" size="1.27" layer="27">&gt;VALUE</text>
+<rectangle x1="-0.1999" y1="-0.4001" x2="0.1999" y2="0.4001" layer="35"/>
+<wire x1="-0.8" y1="0.4" x2="0.8" y2="0.4" width="0.127" layer="51"/>
+<wire x1="0.8" y1="0.4" x2="0.8" y2="-0.4" width="0.127" layer="51"/>
+<wire x1="0.8" y1="-0.4" x2="-0.8" y2="-0.4" width="0.127" layer="51"/>
+<wire x1="-0.8" y1="-0.4" x2="-0.8" y2="0.4" width="0.127" layer="51"/>
+<wire x1="1.6" y1="-0.7" x2="1.6" y2="0.7" width="0.1" layer="39"/>
+<wire x1="1.6" y1="0.7" x2="-1.6" y2="0.7" width="0.1" layer="39"/>
+<wire x1="-1.6" y1="0.7" x2="-1.6" y2="-0.7" width="0.1" layer="39"/>
+<wire x1="-1.6" y1="-0.7" x2="1.6" y2="-0.7" width="0.1" layer="39"/>
+</package>
+<package name="NORDIC_NRF_3_RESC0805_L" library_version="1">
+<description>&lt;b&gt;0805&lt;/b&gt;chip&lt;p&gt;
+
+0805 (imperial)&lt;br/&gt;
+2012 (metric)&lt;br/&gt;
+IPC High Density</description>
+<smd name="1" x="-1" y="0" dx="1" dy="1.25" layer="1"/>
+<smd name="2" x="1" y="0" dx="1" dy="1.25" layer="1"/>
+<text x="-1" y="1" size="1.27" layer="25">&gt;NAME</text>
+<text x="-1" y="-2.5" size="1.27" layer="27">&gt;VALUE</text>
+<rectangle x1="-0.1999" y1="-0.5001" x2="0.1999" y2="0.5001" layer="35"/>
+<wire x1="-1" y1="0.6" x2="1" y2="0.6" width="0.127" layer="51"/>
+<wire x1="1" y1="0.6" x2="1" y2="-0.6" width="0.127" layer="51"/>
+<wire x1="1" y1="-0.6" x2="-1" y2="-0.6" width="0.127" layer="51"/>
+<wire x1="-1" y1="-0.6" x2="-1" y2="0.6" width="0.127" layer="51"/>
+<wire x1="1.6" y1="-0.75" x2="1.6" y2="0.75" width="0.1" layer="39"/>
+<wire x1="1.6" y1="0.75" x2="-1.6" y2="0.75" width="0.1" layer="39"/>
+<wire x1="-1.6" y1="0.75" x2="-1.6" y2="-0.75" width="0.1" layer="39"/>
+<wire x1="-1.6" y1="-0.75" x2="1.6" y2="-0.75" width="0.1" layer="39"/>
+</package>
+<package name="NORDIC_NRF_3_RESC0805_M" library_version="1">
+<description>&lt;b&gt;0805&lt;/b&gt;chip&lt;p&gt;
+
+0805 (imperial)&lt;br/&gt;
+2012 (metric)&lt;br/&gt;
+IPC Low Density</description>
+<smd name="1" x="-1.2" y="0" dx="1.4" dy="1.45" layer="1"/>
+<smd name="2" x="1.2" y="0" dx="1.4" dy="1.45" layer="1"/>
+<text x="-2" y="2" size="1.27" layer="25">&gt;NAME</text>
+<text x="-2" y="-3" size="1.27" layer="27">&gt;VALUE</text>
+<rectangle x1="-0.1999" y1="-0.5001" x2="0.1999" y2="0.5001" layer="35"/>
+<wire x1="-1" y1="0.6" x2="1" y2="0.6" width="0.127" layer="51"/>
+<wire x1="1" y1="0.6" x2="1" y2="-0.6" width="0.127" layer="51"/>
+<wire x1="1" y1="-0.6" x2="-1" y2="-0.6" width="0.127" layer="51"/>
+<wire x1="-1" y1="-0.6" x2="-1" y2="0.6" width="0.127" layer="51"/>
+<wire x1="2.4" y1="-1.2" x2="2.4" y2="1.2" width="0.1" layer="39"/>
+<wire x1="2.4" y1="1.2" x2="-2.4" y2="1.2" width="0.1" layer="39"/>
+<wire x1="-2.4" y1="1.2" x2="-2.4" y2="-1.2" width="0.1" layer="39"/>
+<wire x1="-2.4" y1="-1.2" x2="2.4" y2="-1.2" width="0.1" layer="39"/>
+</package>
+<package name="NORDIC_NRF_3_RESC0805_N" library_version="1">
+<description>&lt;b&gt;0805&lt;/b&gt;chip&lt;p&gt;
+
+0805 (imperial)&lt;br/&gt;
+2012 (metric)&lt;br/&gt;
+IPC Nominal Density</description>
+<smd name="1" x="-1.1" y="0" dx="1.2" dy="1.35" layer="1"/>
+<smd name="2" x="1" y="0" dx="1.2" dy="1.35" layer="1"/>
+<text x="-1" y="1.5" size="1.27" layer="25">&gt;NAME</text>
+<text x="-1" y="-2.5" size="1.27" layer="27">&gt;VALUE</text>
+<rectangle x1="-0.1999" y1="-0.5001" x2="0.1999" y2="0.5001" layer="35"/>
+<wire x1="-1" y1="0.6" x2="1" y2="0.6" width="0.127" layer="51"/>
+<wire x1="1" y1="0.6" x2="1" y2="-0.6" width="0.127" layer="51"/>
+<wire x1="1" y1="-0.6" x2="-1" y2="-0.6" width="0.127" layer="51"/>
+<wire x1="-1" y1="-0.6" x2="-1" y2="0.6" width="0.127" layer="51"/>
+<wire x1="1.85" y1="-0.95" x2="1.85" y2="0.95" width="0.1" layer="39"/>
+<wire x1="1.85" y1="0.95" x2="-1.95" y2="0.95" width="0.1" layer="39"/>
+<wire x1="-1.95" y1="0.95" x2="-1.95" y2="-0.95" width="0.1" layer="39"/>
+<wire x1="-1.95" y1="-0.95" x2="1.85" y2="-0.95" width="0.1" layer="39"/>
+</package>
 </packages>
 <symbols>
 <symbol name="FRAMES_A3L-LOC" library_version="4">
@@ -2468,6 +2702,16 @@ Switches electrical signals</description>
 <pin name="24" x="25.4" y="-58.42" length="middle" rot="R180"/>
 <pin name="MP1" x="0" y="0" length="middle"/>
 <pin name="MP2" x="0" y="-2.54" length="middle"/>
+</symbol>
+<symbol name="NORDIC_NRF_3_C-EU" library_version="1">
+<wire x1="0" y1="0" x2="0" y2="-0.508" width="0.1524" layer="94"/>
+<wire x1="0" y1="-2.54" x2="0" y2="-2.032" width="0.1524" layer="94"/>
+<text x="1.524" y="0.381" size="1.778" layer="95">&gt;NAME</text>
+<text x="1.524" y="-4.699" size="1.778" layer="96">&gt;VALUE</text>
+<rectangle x1="-2.032" y1="-2.032" x2="2.032" y2="-1.524" layer="94"/>
+<rectangle x1="-2.032" y1="-1.016" x2="2.032" y2="-0.508" layer="94"/>
+<pin name="1" x="0" y="2.54" visible="off" length="short" direction="pas" swaplevel="1" rot="R270"/>
+<pin name="2" x="0" y="-5.08" visible="off" length="short" direction="pas" swaplevel="1" rot="R90"/>
 </symbol>
 </symbols>
 <devicesets>
@@ -3484,6 +3728,122 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 </device>
 </devices>
 </deviceset>
+<deviceset name="NORDIC_NRF_3_CAPACITOR" uservalue="yes" library_version="1">
+<description>&lt;b&gt;Generic chip capacitor&lt;/b&gt;</description>
+<gates>
+<gate name="C$1" symbol="NORDIC_NRF_3_C-EU" x="0" y="0"/>
+</gates>
+<devices>
+<device name="_0201_L" package="NORDIC_NRF_3_RESC0201_L">
+<connects>
+<connect gate="C$1" pin="1" pad="1"/>
+<connect gate="C$1" pin="2" pad="2"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="_0201_M" package="NORDIC_NRF_3_RESC0201_M">
+<connects>
+<connect gate="C$1" pin="1" pad="1"/>
+<connect gate="C$1" pin="2" pad="2"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="_0201_N" package="NORDIC_NRF_3_RESC0201_N">
+<connects>
+<connect gate="C$1" pin="1" pad="1"/>
+<connect gate="C$1" pin="2" pad="2"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="_0402_L" package="NORDIC_NRF_3_RESC0402_L">
+<connects>
+<connect gate="C$1" pin="1" pad="1"/>
+<connect gate="C$1" pin="2" pad="2"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="_0402_M" package="NORDIC_NRF_3_RESC0402_M">
+<connects>
+<connect gate="C$1" pin="1" pad="1"/>
+<connect gate="C$1" pin="2" pad="2"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="_0402_N" package="NORDIC_NRF_3_RESC0402_N">
+<connects>
+<connect gate="C$1" pin="1" pad="1"/>
+<connect gate="C$1" pin="2" pad="2"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="_0603_L" package="NORDIC_NRF_3_RESC0603_L">
+<connects>
+<connect gate="C$1" pin="1" pad="1"/>
+<connect gate="C$1" pin="2" pad="2"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="_0603_M" package="NORDIC_NRF_3_RESC0603_M">
+<connects>
+<connect gate="C$1" pin="1" pad="1"/>
+<connect gate="C$1" pin="2" pad="2"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="_0603_N" package="NORDIC_NRF_3_RESC0603_N">
+<connects>
+<connect gate="C$1" pin="1" pad="1"/>
+<connect gate="C$1" pin="2" pad="2"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="_0805_L" package="NORDIC_NRF_3_RESC0805_L">
+<connects>
+<connect gate="C$1" pin="1" pad="1"/>
+<connect gate="C$1" pin="2" pad="2"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="_0805_M" package="NORDIC_NRF_3_RESC0805_M">
+<connects>
+<connect gate="C$1" pin="1" pad="1"/>
+<connect gate="C$1" pin="2" pad="2"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="_0805_N" package="NORDIC_NRF_3_RESC0805_N">
+<connects>
+<connect gate="C$1" pin="1" pad="1"/>
+<connect gate="C$1" pin="2" pad="2"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
 </devicesets>
 </library>
 </libraries>
@@ -3497,173 +3857,173 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 </classes>
 <parts>
 <part name="FRAME1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="FRAMES_A3L-LOC" device=""/>
-<part name="IC1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="BQ25180YBGR_BQ25180YBGR" device=""/>
+<part uuid="0xABCDEF1F" name="IC1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="BQ25180YBGR_BQ25180YBGR" device=""/>
 <part name="SUPPLY1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
 <part name="SUPPLY2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
 <part name="SUPPLY3" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
 <part name="SUPPLY4" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
 <part name="SUPPLY5" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="R9" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="10K"/>
-<part name="C37" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="GRM011R60J152KE01L_1_GRM011R60J152KE01L" device="" value="1uF"/>
-<part name="C38" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="GRM011R60J152KE01L_1_GRM011R60J152KE01L" device="" value="1uF"/>
-<part name="C39" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="10uF"/>
-<part name="U$1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="NORDIC_NRF_4_NRF52840_QF" device=""/>
-<part name="J2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="TC2030-IDC_TC2030-IDC" device=""/>
+<part uuid="0xABCDEFB4" name="R9" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="10K"/>
+<part uuid="0xABCDEF9F" name="C37" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="GRM011R60J152KE01L_1_GRM011R60J152KE01L" device="" value="1uF"/>
+<part uuid="0xABCDEF95" name="C38" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="GRM011R60J152KE01L_1_GRM011R60J152KE01L" device="" value="1uF"/>
+<part uuid="0xABCDEF99" name="C39" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="10uF"/>
+<part uuid="0xABCDEF2F" name="U$1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="NORDIC_NRF_4_NRF52840_QF" device=""/>
+<part uuid="0xABCDEF35" name="J2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="TC2030-IDC_TC2030-IDC" device=""/>
 <part name="SUPPLY6" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="L7" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="MLP2016SR47MT0S1_FTC252012SR47MBCA" device=""/>
-<part name="IC9" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="RT6160AWSC_RT6160AWSC" device=""/>
+<part uuid="0xABCDEF09" name="L7" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="MLP2016SR47MT0S1_FTC252012SR47MBCA" device=""/>
+<part uuid="0xABCDEF1D" name="IC9" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="RT6160AWSC_RT6160AWSC" device=""/>
 <part name="SUPPLY7" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
 <part name="SUPPLY8" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
 <part name="SUPPLY9" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
 <part name="SUPPLY10" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="R2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="0"/>
-<part name="R4" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="0"/>
-<part name="C25" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="22uF"/>
-<part name="C24" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="10uF"/>
-<part name="C33" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="22uF"/>
-<part name="C23" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="GRM011R60J152KE01L_1_GRM011R60J152KE01L" device="" value="0.1uF"/>
-<part name="TP_3V3" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
-<part name="TP_VREG" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
-<part name="TP_SDA" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
-<part name="TP_SCL" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
-<part name="R18" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="3K3"/>
-<part name="R17" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="3K3"/>
-<part name="IC3" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="BMA423_BMA423" device=""/>
-<part name="R3" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="0"/>
+<part uuid="0xABCDEF91" name="R2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="0"/>
+<part uuid="0xABCDEF97" name="R4" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="0"/>
+<part uuid="0xABCDEF0D" name="C25" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="22uF"/>
+<part uuid="0xABCDEF9B" name="C24" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="10uF"/>
+<part uuid="0xABCDEF49" name="C33" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="22uF"/>
+<part uuid="0xABCDEF9D" name="C23" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="GRM011R60J152KE01L_1_GRM011R60J152KE01L" device="" value="0.1uF"/>
+<part uuid="0xABCDEF6D" name="TP_3V3" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
+<part uuid="0xABCDEF0B" name="TP_VREG" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
+<part uuid="0xABCDEF07" name="TP_SDA" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
+<part uuid="0xABCDEF23" name="TP_SCL" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
+<part uuid="0xABCDEFB8" name="R18" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="3K3"/>
+<part uuid="0xABCDEFD0" name="R17" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="3K3"/>
+<part uuid="0xABCDEF19" name="IC3" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="BMA423_BMA423" device=""/>
+<part uuid="0xABCDEFBA" name="R3" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="0"/>
 <part name="SUPPLY11" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
 <part name="SUPPLY12" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
 <part name="SUPPLY13" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="C19" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="100uF"/>
-<part name="TP_SWDIO" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
-<part name="TP_RESET" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
-<part name="TP_3.3V" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
-<part name="TP_GND" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
-<part name="TP_SWO" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
-<part name="TP_SWDCLK" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
+<part uuid="0xABCDEF4F" name="C19" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="100nF"/>
+<part uuid="0xABCDEF2D" name="TP_SWDIO" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
+<part uuid="0xABCDEF3B" name="TP_RESET" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
+<part uuid="0xABCDEF53" name="TP_3.3V" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
+<part uuid="0xABCDEF71" name="TP_GND" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
+<part uuid="0xABCDEF21" name="TP_SWO" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
+<part uuid="0xABCDEF51" name="TP_SWDCLK" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
 <part name="SUPPLY14" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="ANT1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="2450AT18B100E_2450AT18B100E" device=""/>
-<part name="L1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="NORDIC_NRF_2_INDUCTOR" device="_0402_L" value="3.9nH"/>
+<part uuid="0xABCDEF37" name="ANT1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="2450AT18B100E_2450AT18B100E" device=""/>
+<part uuid="0xABCDEF17" name="L1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="NORDIC_NRF_2_INDUCTOR" device="_0402_L" value="3.9nH"/>
 <part name="SUPPLY15" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="C4" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="1pF"/>
-<part name="C22" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="N.C."/>
 <part name="SUPPLY16" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
 <part name="SUPPLY17" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="C3" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="1pF"/>
 <part name="SUPPLY18" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
 <part name="SUPPLY19" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="C8" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="100nF"/>
-<part name="C9" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="820pF"/>
 <part name="SUPPLY20" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="X1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="NORDIC_NRF_XTAL_32MHZ" device="" value="32MHz"/>
+<part uuid="0xABCDEF33" name="X1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="NORDIC_NRF_XTAL_32MHZ" device="" value="32MHz"/>
 <part name="SUPPLY21" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="C2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="12pF"/>
-<part name="C1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="12pF"/>
-<part name="C11" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="100pF"/>
 <part name="SUPPLY22" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="C10" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="N.C."/>
 <part name="SUPPLY23" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="C12" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="100nF"/>
 <part name="SUPPLY24" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
 <part name="SUPPLY25" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="C13" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="N.C."/>
-<part name="C16" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="47nF"/>
-<part name="C15" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="1.0µF"/>
+<part uuid="0xABCDEF67" name="C15" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="1.0µF"/>
 <part name="SUPPLY26" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="L2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="NORDIC_NRF_2_INDUCTOR" device="_0402_L" value="3.9nH"/>
-<part name="L3" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="NORDIC_NRF_2_INDUCTOR" device="_0402_L" value="3.9nH"/>
+<part uuid="0xABCDEF7D" name="L2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="NORDIC_NRF_2_INDUCTOR" device="_0402_L" value="3.9nH"/>
+<part uuid="0xABCDEFBE" name="L3" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="NORDIC_NRF_2_INDUCTOR" device="_0402_L" value="3.9nH"/>
 <part name="SUPPLY27" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="C14" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="4.7µF"/>
-<part name="C5" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="100nF"/>
+<part uuid="0xABCDEF63" name="C14" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="4.7µF"/>
 <part name="SUPPLY28" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="X2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="NORDIC_NRF_1_XTAL_32KHZ" device="" value="32.768kHz"/>
-<part name="C17" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="12pF"/>
-<part name="C18" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="12pF"/>
+<part uuid="0xABCDEF11" name="X2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="NORDIC_NRF_1_XTAL_32KHZ" device="" value="32.768kHz"/>
 <part name="SUPPLY29" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
 <part name="SUPPLY30" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="C6" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="4.7µF"/>
-<part name="C20" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="4.7µF"/>
+<part uuid="0xABCDEF7B" name="C6" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="4.7µF"/>
+<part uuid="0xABCDEF75" name="C20" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="4.7µF"/>
 <part name="SUPPLY31" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
 <part name="SUPPLY32" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
 <part name="SUPPLY33" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="C21" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="4.7µF"/>
-<part name="C7" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="100nF"/>
+<part uuid="0xABCDEF77" name="C21" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="4.7µF"/>
 <part name="FRAME2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="FRAMES_A3L-LOC" device=""/>
-<part name="C1-EP-DR" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="10uF"/>
-<part name="R2_EP_DR" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="10K"/>
+<part uuid="0xABCDEF83" name="C1-EP-DR" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="10uF"/>
+<part uuid="0xABCDEF41" name="R2_EP_DR" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="10K"/>
 <part name="SUPPLY34" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="D2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="ESP32_C6_LIBRARY_5_MBR0530" device="" value="MBR0530"/>
-<part name="D5" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="ESP32_C6_LIBRARY_5_MBR0530" device="" value="MBR0530"/>
-<part name="D4" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="ESP32_C6_LIBRARY_5_MBR0530" device="" value="MBR0530"/>
-<part name="C2-EP-DR" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="4.7uF/25V"/>
+<part uuid="0xABCDEF5D" name="D2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="ESP32_C6_LIBRARY_5_MBR0530" device="" value="MBR0530"/>
+<part uuid="0xABCDEF5F" name="D5" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="ESP32_C6_LIBRARY_5_MBR0530" device="" value="MBR0530"/>
+<part uuid="0xABCDEF43" name="D4" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="ESP32_C6_LIBRARY_5_MBR0530" device="" value="MBR0530"/>
+<part uuid="0xABCDEF81" name="C2-EP-DR" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="4.7uF/25V"/>
 <part name="SUPPLY35" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="L5" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="ESP32_C6_LIBRARY_2_744043680" device="IND_4828-WE-TPC_WRE" value="68uH"/>
-<part name="Q3" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="ESP32_C6_LIBRARY_6_SI1308EDL-T1-GE3" device=""/>
-<part name="SJ1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="ESP32_C6_LIBRARY_7_JUMPER_SJ" device="" value="0"/>
-<part name="Q1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="ESP32_C6_LIBRARY_4_ESP32_WROVER_SPARKFUN-DISCRETESEMI_MOSFET_PCH" device="-DMG2305UX-7" value="20V/4.2A/52mΩ/1.4W"/>
+<part uuid="0xABCDEF2B" name="L5" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="ESP32_C6_LIBRARY_2_744043680" device="IND_4828-WE-TPC_WRE" value="68uH"/>
+<part uuid="0xABCDEF1B" name="Q3" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="ESP32_C6_LIBRARY_6_SI1308EDL-T1-GE3" device=""/>
+<part uuid="0xABCDEF15" name="SJ1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="ESP32_C6_LIBRARY_7_JUMPER_SJ" device="" value="0"/>
+<part uuid="0xABCDEFD2" name="Q1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="ESP32_C6_LIBRARY_4_ESP32_WROVER_SPARKFUN-DISCRETESEMI_MOSFET_PCH" device="-DMG2305UX-7" value="20V/4.2A/52mΩ/1.4W"/>
 <part name="SUPPLY36" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
 <part name="R1_EP_DR" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="0.47"/>
-<part name="R_TYPE_SEL" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="2.2"/>
+<part uuid="0xABCDEF8C" name="R_TYPE_SEL" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="2.2"/>
 <part name="SUPPLY37" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
 <part name="SUPPLY38" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="R_PWE_EPD" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="10K"/>
-<part name="TP_OP" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
-<part name="TP_ON" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
-<part name="IC2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="DRV2605YZFR_DRV2605YZFR" device=""/>
+<part name="R_PWR_EPD" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="10K"/>
+<part uuid="0xABCDEF39" name="TP_OP" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
+<part uuid="0xABCDEF3F" name="TP_ON" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
+<part uuid="0xABCDEF3D" name="IC2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="DRV2605YZFR_DRV2605YZFR" device=""/>
 <part name="SUPPLY39" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="C32" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="GRM011R60J152KE01L_2_GRM011R60J152KE01L" device="" value="1uF"/>
-<part name="C34" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="GRM011R60J152KE01L_2_GRM011R60J152KE01L" device="" value="0.1uF"/>
+<part uuid="0xABCDEFD8" name="C32" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="GRM011R60J152KE01L_2_GRM011R60J152KE01L" device="" value="1uF"/>
+<part uuid="0xABCDEFDA" name="C34" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="GRM011R60J152KE01L_2_GRM011R60J152KE01L" device="" value="0.1uF"/>
 <part name="SUPPLY40" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
 <part name="SUPPLY41" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
 <part name="SUPPLY42" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="SW_UP" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="2025-10-22_07-23-44_LIBRARY_EVP-AKE31A" device="SW_EVP-AKE31A_PAN"/>
-<part name="SW_ENT" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="2025-10-22_07-23-44_LIBRARY_EVP-AKE31A" device="SW_EVP-AKE31A_PAN"/>
-<part name="SW_DN" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="2025-10-22_07-23-44_LIBRARY_EVP-AKE31A" device="SW_EVP-AKE31A_PAN"/>
+<part uuid="0xABCDEF29" name="SW_UP" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="2025-10-22_07-23-44_LIBRARY_EVP-AKE31A" device="SW_EVP-AKE31A_PAN"/>
+<part uuid="0xABCDEF27" name="SW_ENT" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="2025-10-22_07-23-44_LIBRARY_EVP-AKE31A" device="SW_EVP-AKE31A_PAN"/>
+<part uuid="0xABCDEF25" name="SW_DN" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="2025-10-22_07-23-44_LIBRARY_EVP-AKE31A" device="SW_EVP-AKE31A_PAN"/>
 <part name="SUPPLY43" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
 <part name="SUPPLY44" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
 <part name="SUPPLY45" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="C30" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="GRM011R60J152KE01L_2_GRM011R60J152KE01L" device="" value="1uF"/>
-<part name="C31" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="GRM011R60J152KE01L_2_GRM011R60J152KE01L" device="" value="1uF"/>
-<part name="C29" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="GRM011R60J152KE01L_2_GRM011R60J152KE01L" device="" value="1uF"/>
-<part name="R_PWE_EPD1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="10K"/>
-<part name="R_PWE_EPD2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="10K"/>
-<part name="R_PWE_EPD3" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="10K"/>
-<part name="U3" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="ESP32_C6_LIBRARY_MAX17048G+T10" device=""/>
+<part uuid="0xABCDEFD4" name="C30" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="GRM011R60J152KE01L_2_GRM011R60J152KE01L" device="" value="1uF"/>
+<part uuid="0xABCDEFB6" name="C31" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="GRM011R60J152KE01L_2_GRM011R60J152KE01L" device="" value="1uF"/>
+<part uuid="0xABCDEF5B" name="C29" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="GRM011R60J152KE01L_2_GRM011R60J152KE01L" device="" value="1uF"/>
+<part uuid="0xABCDEF59" name="R7" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="10K"/>
+<part uuid="0xABCDEFB0" name="R8" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="10K"/>
+<part uuid="0xABCDEFD6" name="R5" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="10K"/>
+<part uuid="0xABCDEF03" name="U3" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="ESP32_C6_LIBRARY_MAX17048G+T10" device=""/>
 <part name="SUPPLY46" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
 <part name="SUPPLY47" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
 <part name="SUPPLY48" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
 <part name="SUPPLY49" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
 <part name="SUPPLY50" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="C27" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="GRM011R60J152KE01L_2_GRM011R60J152KE01L" device="" value="0.1uF"/>
+<part uuid="0xABCDEF0F" name="C27" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="GRM011R60J152KE01L_2_GRM011R60J152KE01L" device="" value="0.1uF"/>
 <part name="SUPPLY51" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="TP_VBAT" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
-<part name="TP_BAT_GND" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
-<part name="D3" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="ESP32_C6_LIBRARY_3_USBLC6-2SC6Y" device=""/>
-<part name="J4" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="KH-TYPE-C-16P_KH-TYPE-C-16P" device=""/>
-<part name="R1_USB" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="5K1"/>
-<part name="R2_USB" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="5K1"/>
+<part uuid="0xABCDEF05" name="TP_VBAT" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
+<part uuid="0xABCDEF57" name="TP_BAT_GND" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
+<part uuid="0xABCDEF31" name="D3" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="ESP32_C6_LIBRARY_3_USBLC6-2SC6Y" device=""/>
+<part name="J4" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="KH-TYPE-C-16P_KH-TYPE-C-16P" device="" value="KH-TYPE-C-16P_KH-TYPE-C-16P"/>
+<part uuid="0xABCDEF73" name="R1_USB" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="5K1"/>
+<part uuid="0xABCDEF4D" name="R2_USB" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="5K1"/>
 <part name="SUPPLY52" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
 <part name="SUPPLY53" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
 <part name="SUPPLY54" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
 <part name="SUPPLY55" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
 <part name="SUPPLY56" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
 <part name="SUPPLY57" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="C42" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="GRM011R60J152KE01L_2_GRM011R60J152KE01L" device="" value="0.1uF"/>
-<part name="C43" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="4.7uF"/>
-<part name="J1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="503480-2400_503480-2400" device=""/>
+<part uuid="0xABCDEF4B" name="C42" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="GRM011R60J152KE01L_2_GRM011R60J152KE01L" device="" value="0.1uF"/>
+<part uuid="0xABCDEF45" name="C43" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="4.7uF"/>
+<part uuid="0xABCDEF01" name="J1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="503480-2400_503480-2400" device=""/>
 <part name="SUPPLY58" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
 <part name="SUPPLY59" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
 <part name="SUPPLY60" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
 <part name="SUPPLY61" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="EPD_C2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
-<part name="EPD_C1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
-<part name="EPD_C5" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="0.1uF/50V"/>
-<part name="EPD_C6" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
-<part name="EPD_C7" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
-<part name="EPD_C8" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
-<part name="EPD_C9" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
-<part name="EPD_C10" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
-<part name="EPD_C11" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
+<part uuid="0xABCDEF93" name="EPD_C2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
+<part uuid="0xABCDEFB2" name="EPD_C1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
+<part uuid="0xABCDEF85" name="EPD_C6" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
+<part uuid="0xABCDEF55" name="EPD_C7" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
+<part uuid="0xABCDEF8B" name="EPD_C8" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
+<part uuid="0xABCDEF8E" name="EPD_C9" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
+<part uuid="0xABCDEF88" name="EPD_C10" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
+<part uuid="0xABCDEF47" name="EPD_C11" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
 <part name="EPD_C12" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
+<part uuid="0xABCDEF7F" name="C17" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="12pF"/>
+<part uuid="0xABCDEF79" name="C18" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="12pF"/>
+<part uuid="0xABCDEF61" name="C5" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="100nF"/>
+<part uuid="0xABCDEF65" name="C16" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="47nF"/>
+<part uuid="0xABCDEF6F" name="C13" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="N.C."/>
+<part uuid="0xABCDEF6B" name="C12" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="100nF"/>
+<part uuid="0xABCDEFA2" name="C11" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="100pF"/>
+<part uuid="0xABCDEFA0" name="C10" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="N.C."/>
+<part uuid="0xABCDEF69" name="C2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="12pF"/>
+<part uuid="0xABCDEFBC" name="C1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="12pF"/>
+<part uuid="0xABCDEFA4" name="C22" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="N.C."/>
+<part uuid="0xABCDEFAA" name="C4" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="1pF"/>
+<part uuid="0xABCDEFA6" name="C3" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="1pF"/>
+<part uuid="0xABCDEFA8" name="C9" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="820pF"/>
+<part uuid="0xABCDEFAE" name="C8" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="100nF"/>
+<part uuid="0xABCDEFAC" name="C7" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="100nF"/>
+<part uuid="0xABCDEF87" name="EPD_C5" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.nKD9QX5WTQqH3b6J4hrJMw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="0.1uF/50V"/>
 </parts>
 <sheets>
 <sheet>
@@ -3852,37 +4212,17 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <instance part="SUPPLY15" gate="G$1" x="335.28" y="119.38" smashed="yes">
 <attribute name="VALUE" x="335.28" y="117.475" size="1.778" layer="96" align="center"/>
 </instance>
-<instance part="C4" gate="G$1" x="335.28" y="127" smashed="yes">
-<attribute name="NAME" x="336.804" y="132.461" size="1.778" layer="95"/>
-<attribute name="VALUE" x="336.804" y="127.381" size="1.778" layer="96"/>
-</instance>
-<instance part="C22" gate="G$1" x="345.44" y="127" smashed="yes">
-<attribute name="NAME" x="346.964" y="132.461" size="1.778" layer="95"/>
-<attribute name="VALUE" x="346.964" y="127.381" size="1.778" layer="96"/>
-</instance>
 <instance part="SUPPLY16" gate="G$1" x="345.44" y="119.38" smashed="yes">
 <attribute name="VALUE" x="345.44" y="117.475" size="1.778" layer="96" align="center"/>
 </instance>
 <instance part="SUPPLY17" gate="G$1" x="314.96" y="119.38" smashed="yes">
 <attribute name="VALUE" x="314.96" y="117.475" size="1.778" layer="96" align="center"/>
 </instance>
-<instance part="C3" gate="G$1" x="314.96" y="127" smashed="yes">
-<attribute name="NAME" x="316.484" y="132.461" size="1.778" layer="95"/>
-<attribute name="VALUE" x="316.484" y="127.381" size="1.778" layer="96"/>
-</instance>
 <instance part="SUPPLY18" gate="G$1" x="281.94" y="93.98" smashed="yes">
 <attribute name="VALUE" x="281.94" y="92.075" size="1.778" layer="96" align="center"/>
 </instance>
 <instance part="SUPPLY19" gate="G$1" x="297.18" y="93.98" smashed="yes">
 <attribute name="VALUE" x="297.18" y="92.075" size="1.778" layer="96" align="center"/>
-</instance>
-<instance part="C8" gate="G$1" x="297.18" y="99.06" smashed="yes">
-<attribute name="NAME" x="298.704" y="104.521" size="1.778" layer="95"/>
-<attribute name="VALUE" x="298.704" y="99.441" size="1.778" layer="96"/>
-</instance>
-<instance part="C9" gate="G$1" x="299.72" y="124.46" smashed="yes">
-<attribute name="NAME" x="301.244" y="129.921" size="1.778" layer="95"/>
-<attribute name="VALUE" x="301.244" y="124.841" size="1.778" layer="96"/>
 </instance>
 <instance part="SUPPLY20" gate="G$1" x="299.72" y="116.84" smashed="yes">
 <attribute name="VALUE" x="299.72" y="114.935" size="1.778" layer="96" align="center"/>
@@ -3894,45 +4234,17 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <instance part="SUPPLY21" gate="G$1" x="345.44" y="147.32" smashed="yes">
 <attribute name="VALUE" x="345.44" y="145.415" size="1.778" layer="96" align="center"/>
 </instance>
-<instance part="C2" gate="G$1" x="340.36" y="175.26" smashed="yes" rot="R90">
-<attribute name="NAME" x="334.899" y="176.784" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="339.979" y="176.784" size="1.778" layer="96" rot="R90"/>
-</instance>
-<instance part="C1" gate="G$1" x="340.36" y="152.4" smashed="yes" rot="R90">
-<attribute name="NAME" x="334.899" y="153.924" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="339.979" y="153.924" size="1.778" layer="96" rot="R90"/>
-</instance>
-<instance part="C11" gate="G$1" x="289.56" y="167.64" smashed="yes">
-<attribute name="NAME" x="291.084" y="173.101" size="1.778" layer="95"/>
-<attribute name="VALUE" x="291.084" y="168.021" size="1.778" layer="96"/>
-</instance>
 <instance part="SUPPLY22" gate="G$1" x="289.56" y="160.02" smashed="yes">
 <attribute name="VALUE" x="289.56" y="158.115" size="1.778" layer="96" align="center"/>
 </instance>
-<instance part="C10" gate="G$1" x="302.26" y="167.64" smashed="yes">
-<attribute name="NAME" x="303.784" y="173.101" size="1.778" layer="95"/>
-<attribute name="VALUE" x="303.784" y="168.021" size="1.778" layer="96"/>
-</instance>
 <instance part="SUPPLY23" gate="G$1" x="302.26" y="160.02" smashed="yes">
 <attribute name="VALUE" x="302.26" y="158.115" size="1.778" layer="96" align="center"/>
-</instance>
-<instance part="C12" gate="G$1" x="269.24" y="175.26" smashed="yes">
-<attribute name="NAME" x="270.764" y="180.721" size="1.778" layer="95"/>
-<attribute name="VALUE" x="270.764" y="175.641" size="1.778" layer="96"/>
 </instance>
 <instance part="SUPPLY24" gate="G$1" x="269.24" y="170.18" smashed="yes">
 <attribute name="VALUE" x="269.24" y="168.275" size="1.778" layer="96" align="center"/>
 </instance>
 <instance part="SUPPLY25" gate="G$1" x="269.24" y="190.5" smashed="yes">
 <attribute name="VALUE" x="269.24" y="188.595" size="1.778" layer="96" align="center"/>
-</instance>
-<instance part="C13" gate="G$1" x="269.24" y="195.58" smashed="yes">
-<attribute name="NAME" x="270.764" y="201.041" size="1.778" layer="95"/>
-<attribute name="VALUE" x="270.764" y="195.961" size="1.778" layer="96"/>
-</instance>
-<instance part="C16" gate="G$1" x="241.3" y="195.58" smashed="yes">
-<attribute name="NAME" x="242.824" y="201.041" size="1.778" layer="95"/>
-<attribute name="VALUE" x="242.824" y="195.961" size="1.778" layer="96"/>
 </instance>
 <instance part="C15" gate="G$1" x="231.14" y="195.58" smashed="yes">
 <attribute name="NAME" x="232.664" y="201.041" size="1.778" layer="95"/>
@@ -3956,24 +4268,12 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <attribute name="NAME" x="199.644" y="188.341" size="1.778" layer="95"/>
 <attribute name="VALUE" x="199.644" y="183.261" size="1.778" layer="96"/>
 </instance>
-<instance part="C5" gate="G$1" x="182.88" y="167.64" smashed="yes">
-<attribute name="NAME" x="184.404" y="173.101" size="1.778" layer="95"/>
-<attribute name="VALUE" x="184.404" y="168.021" size="1.778" layer="96"/>
-</instance>
 <instance part="SUPPLY28" gate="G$1" x="182.88" y="162.56" smashed="yes">
 <attribute name="VALUE" x="182.88" y="160.655" size="1.778" layer="96" align="center"/>
 </instance>
 <instance part="X2" gate="X$1" x="165.1" y="167.64" smashed="yes" rot="R90">
 <attribute name="NAME" x="161.544" y="167.64" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="168.91" y="162.56" size="1.778" layer="96" rot="R90"/>
-</instance>
-<instance part="C17" gate="G$1" x="152.4" y="175.26" smashed="yes" rot="R270">
-<attribute name="NAME" x="152.781" y="181.356" size="1.778" layer="95" rot="R270"/>
-<attribute name="VALUE" x="157.861" y="181.356" size="1.778" layer="96" rot="R270"/>
-</instance>
-<instance part="C18" gate="G$1" x="152.4" y="162.56" smashed="yes" rot="R270">
-<attribute name="NAME" x="152.781" y="168.656" size="1.778" layer="95" rot="R270"/>
-<attribute name="VALUE" x="157.861" y="168.656" size="1.778" layer="96" rot="R270"/>
 </instance>
 <instance part="SUPPLY29" gate="G$1" x="152.4" y="154.94" smashed="yes">
 <attribute name="VALUE" x="152.4" y="153.035" size="1.778" layer="96" align="center"/>
@@ -4002,7 +4302,67 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <attribute name="NAME" x="207.264" y="76.581" size="1.778" layer="95"/>
 <attribute name="VALUE" x="207.264" y="71.501" size="1.778" layer="96"/>
 </instance>
-<instance part="C7" gate="G$1" x="233.68" y="55.88" smashed="yes">
+<instance part="C17" gate="C$1" x="154.94" y="175.26" smashed="yes" rot="R90">
+<attribute name="NAME" x="154.559" y="176.784" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="159.639" y="176.784" size="1.778" layer="96" rot="R90"/>
+</instance>
+<instance part="C18" gate="C$1" x="154.94" y="162.56" smashed="yes" rot="R90">
+<attribute name="NAME" x="154.559" y="164.084" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="159.639" y="164.084" size="1.778" layer="96" rot="R90"/>
+</instance>
+<instance part="C5" gate="C$1" x="182.88" y="172.72" smashed="yes">
+<attribute name="NAME" x="184.404" y="173.101" size="1.778" layer="95"/>
+<attribute name="VALUE" x="184.404" y="168.021" size="1.778" layer="96"/>
+</instance>
+<instance part="C16" gate="C$1" x="241.3" y="200.66" smashed="yes">
+<attribute name="NAME" x="242.824" y="201.041" size="1.778" layer="95"/>
+<attribute name="VALUE" x="242.824" y="195.961" size="1.778" layer="96"/>
+</instance>
+<instance part="C13" gate="C$1" x="269.24" y="200.66" smashed="yes">
+<attribute name="NAME" x="270.764" y="201.041" size="1.778" layer="95"/>
+<attribute name="VALUE" x="270.764" y="195.961" size="1.778" layer="96"/>
+</instance>
+<instance part="C12" gate="C$1" x="269.24" y="180.34" smashed="yes">
+<attribute name="NAME" x="270.764" y="180.721" size="1.778" layer="95"/>
+<attribute name="VALUE" x="270.764" y="175.641" size="1.778" layer="96"/>
+</instance>
+<instance part="C11" gate="C$1" x="289.56" y="172.72" smashed="yes">
+<attribute name="NAME" x="291.084" y="173.101" size="1.778" layer="95"/>
+<attribute name="VALUE" x="291.084" y="168.021" size="1.778" layer="96"/>
+</instance>
+<instance part="C10" gate="C$1" x="302.26" y="172.72" smashed="yes">
+<attribute name="NAME" x="303.784" y="173.101" size="1.778" layer="95"/>
+<attribute name="VALUE" x="303.784" y="168.021" size="1.778" layer="96"/>
+</instance>
+<instance part="C2" gate="C$1" x="335.28" y="175.26" smashed="yes" rot="R90">
+<attribute name="NAME" x="334.899" y="176.784" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="339.979" y="176.784" size="1.778" layer="96" rot="R90"/>
+</instance>
+<instance part="C1" gate="C$1" x="335.28" y="152.4" smashed="yes" rot="R90">
+<attribute name="NAME" x="334.899" y="153.924" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="339.979" y="153.924" size="1.778" layer="96" rot="R90"/>
+</instance>
+<instance part="C22" gate="C$1" x="345.44" y="132.08" smashed="yes">
+<attribute name="NAME" x="346.964" y="132.461" size="1.778" layer="95"/>
+<attribute name="VALUE" x="346.964" y="127.381" size="1.778" layer="96"/>
+</instance>
+<instance part="C4" gate="C$1" x="335.28" y="132.08" smashed="yes">
+<attribute name="NAME" x="336.804" y="132.461" size="1.778" layer="95"/>
+<attribute name="VALUE" x="336.804" y="127.381" size="1.778" layer="96"/>
+</instance>
+<instance part="C3" gate="C$1" x="314.96" y="132.08" smashed="yes">
+<attribute name="NAME" x="316.484" y="132.461" size="1.778" layer="95"/>
+<attribute name="VALUE" x="316.484" y="127.381" size="1.778" layer="96"/>
+</instance>
+<instance part="C9" gate="C$1" x="299.72" y="129.54" smashed="yes">
+<attribute name="NAME" x="301.244" y="129.921" size="1.778" layer="95"/>
+<attribute name="VALUE" x="301.244" y="124.841" size="1.778" layer="96"/>
+</instance>
+<instance part="C8" gate="C$1" x="297.18" y="104.14" smashed="yes">
+<attribute name="NAME" x="298.704" y="104.521" size="1.778" layer="95"/>
+<attribute name="VALUE" x="298.704" y="99.441" size="1.778" layer="96"/>
+</instance>
+<instance part="C7" gate="C$1" x="233.68" y="60.96" smashed="yes">
 <attribute name="NAME" x="235.204" y="61.341" size="1.778" layer="95"/>
 <attribute name="VALUE" x="235.204" y="56.261" size="1.778" layer="96"/>
 </instance>
@@ -4097,24 +4457,24 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <pinref part="SUPPLY14" gate="G$1" pin="GND"/>
 </segment>
 <segment>
-<pinref part="C4" gate="G$1" pin="2"/>
 <wire x1="335.28" y1="127" x2="335.28" y2="121.92" width="0.1524" layer="91"/>
 <pinref part="SUPPLY15" gate="G$1" pin="GND"/>
+<pinref part="C4" gate="C$1" pin="2"/>
 </segment>
 <segment>
 <pinref part="SUPPLY16" gate="G$1" pin="GND"/>
 <wire x1="345.44" y1="121.92" x2="345.44" y2="127" width="0.1524" layer="91"/>
-<pinref part="C22" gate="G$1" pin="2"/>
+<pinref part="C22" gate="C$1" pin="2"/>
 </segment>
 <segment>
 <pinref part="SUPPLY17" gate="G$1" pin="GND"/>
 <wire x1="314.96" y1="121.92" x2="314.96" y2="127" width="0.1524" layer="91"/>
-<pinref part="C3" gate="G$1" pin="2"/>
 <pinref part="U$1" gate="G$1" pin="VSS_PA@F23"/>
 <wire x1="279.4" y1="144.78" x2="309.88" y2="144.78" width="0.1524" layer="91"/>
 <wire x1="309.88" y1="144.78" x2="309.88" y2="121.92" width="0.1524" layer="91"/>
 <wire x1="309.88" y1="121.92" x2="314.96" y2="121.92" width="0.1524" layer="91"/>
 <junction x="314.96" y="121.92"/>
+<pinref part="C3" gate="C$1" pin="2"/>
 </segment>
 <segment>
 <pinref part="U$1" gate="G$1" pin="VSS_PAD"/>
@@ -4125,13 +4485,12 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <segment>
 <pinref part="SUPPLY19" gate="G$1" pin="GND"/>
 <wire x1="297.18" y1="96.52" x2="297.18" y2="99.06" width="0.1524" layer="91"/>
-<pinref part="C8" gate="G$1" pin="2"/>
+<pinref part="C8" gate="C$1" pin="2"/>
 </segment>
 <segment>
 <pinref part="SUPPLY21" gate="G$1" pin="GND"/>
 <wire x1="345.44" y1="149.86" x2="345.44" y2="152.4" width="0.1524" layer="91"/>
 <wire x1="345.44" y1="152.4" x2="340.36" y2="152.4" width="0.1524" layer="91"/>
-<pinref part="C1" gate="G$1" pin="2"/>
 <pinref part="X1" gate="X$1" pin="2"/>
 <wire x1="330.2" y1="165.1" x2="345.44" y2="165.1" width="0.1524" layer="91"/>
 <wire x1="345.44" y1="165.1" x2="345.44" y2="152.4" width="0.1524" layer="91"/>
@@ -4140,30 +4499,31 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <wire x1="330.2" y1="167.64" x2="345.44" y2="167.64" width="0.1524" layer="91"/>
 <wire x1="345.44" y1="167.64" x2="345.44" y2="165.1" width="0.1524" layer="91"/>
 <junction x="345.44" y="165.1"/>
-<pinref part="C2" gate="G$1" pin="2"/>
 <wire x1="340.36" y1="175.26" x2="345.44" y2="175.26" width="0.1524" layer="91"/>
 <wire x1="345.44" y1="175.26" x2="345.44" y2="167.64" width="0.1524" layer="91"/>
 <junction x="345.44" y="167.64"/>
+<pinref part="C2" gate="C$1" pin="2"/>
+<pinref part="C1" gate="C$1" pin="2"/>
 </segment>
 <segment>
-<pinref part="C11" gate="G$1" pin="2"/>
 <wire x1="289.56" y1="167.64" x2="289.56" y2="162.56" width="0.1524" layer="91"/>
 <pinref part="SUPPLY22" gate="G$1" pin="GND"/>
+<pinref part="C11" gate="C$1" pin="2"/>
 </segment>
 <segment>
-<pinref part="C10" gate="G$1" pin="2"/>
 <wire x1="302.26" y1="167.64" x2="302.26" y2="162.56" width="0.1524" layer="91"/>
 <pinref part="SUPPLY23" gate="G$1" pin="GND"/>
+<pinref part="C10" gate="C$1" pin="2"/>
 </segment>
 <segment>
-<pinref part="C12" gate="G$1" pin="2"/>
 <wire x1="269.24" y1="175.26" x2="269.24" y2="172.72" width="0.1524" layer="91"/>
 <pinref part="SUPPLY24" gate="G$1" pin="GND"/>
+<pinref part="C12" gate="C$1" pin="2"/>
 </segment>
 <segment>
-<pinref part="C13" gate="G$1" pin="2"/>
 <wire x1="269.24" y1="195.58" x2="269.24" y2="193.04" width="0.1524" layer="91"/>
 <pinref part="SUPPLY25" gate="G$1" pin="GND"/>
+<pinref part="C13" gate="C$1" pin="2"/>
 </segment>
 <segment>
 <pinref part="U$1" gate="G$1" pin="VSS@B7"/>
@@ -4171,12 +4531,12 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <wire x1="226.06" y1="193.04" x2="231.14" y2="193.04" width="0.1524" layer="91"/>
 <wire x1="231.14" y1="193.04" x2="241.3" y2="193.04" width="0.1524" layer="91"/>
 <wire x1="241.3" y1="193.04" x2="241.3" y2="195.58" width="0.1524" layer="91"/>
-<pinref part="C16" gate="G$1" pin="2"/>
 <pinref part="C15" gate="G$1" pin="2"/>
 <wire x1="231.14" y1="195.58" x2="231.14" y2="193.04" width="0.1524" layer="91"/>
 <junction x="231.14" y="193.04"/>
 <wire x1="231.14" y1="193.04" x2="231.14" y2="190.5" width="0.1524" layer="91"/>
 <pinref part="SUPPLY26" gate="G$1" pin="GND"/>
+<pinref part="C16" gate="C$1" pin="2"/>
 </segment>
 <segment>
 <pinref part="C14" gate="G$1" pin="2"/>
@@ -4184,16 +4544,16 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <pinref part="SUPPLY27" gate="G$1" pin="GND"/>
 </segment>
 <segment>
-<pinref part="C5" gate="G$1" pin="2"/>
 <wire x1="182.88" y1="167.64" x2="182.88" y2="165.1" width="0.1524" layer="91"/>
 <pinref part="SUPPLY28" gate="G$1" pin="GND"/>
+<pinref part="C5" gate="C$1" pin="2"/>
 </segment>
 <segment>
-<pinref part="C17" gate="G$1" pin="2"/>
 <wire x1="152.4" y1="175.26" x2="152.4" y2="162.56" width="0.1524" layer="91"/>
-<pinref part="C18" gate="G$1" pin="2"/>
-<wire x1="152.4" y1="162.56" x2="152.4" y2="157.48" width="0.1524" layer="91"/>
 <pinref part="SUPPLY29" gate="G$1" pin="GND"/>
+<pinref part="C17" gate="C$1" pin="1"/>
+<pinref part="C18" gate="C$1" pin="1"/>
+<wire x1="152.4" y1="162.56" x2="152.4" y2="157.48" width="0.1524" layer="91"/>
 <junction x="152.4" y="162.56"/>
 </segment>
 <segment>
@@ -4214,7 +4574,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <segment>
 <pinref part="SUPPLY33" gate="G$1" pin="GND"/>
 <wire x1="233.68" y1="50.8" x2="233.68" y2="55.88" width="0.1524" layer="91"/>
-<pinref part="C7" gate="G$1" pin="2"/>
+<pinref part="C7" gate="C$1" pin="2"/>
 </segment>
 <segment>
 <pinref part="J2" gate="G$1" pin="5"/>
@@ -4233,9 +4593,9 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <pinref part="SUPPLY7" gate="G$1" pin="GND"/>
 </segment>
 <segment>
-<pinref part="C9" gate="G$1" pin="2"/>
 <wire x1="299.72" y1="124.46" x2="299.72" y2="119.38" width="0.1524" layer="91"/>
 <pinref part="SUPPLY20" gate="G$1" pin="GND"/>
+<pinref part="C9" gate="C$1" pin="2"/>
 </segment>
 </net>
 <net name="N$1" class="0">
@@ -4309,10 +4669,10 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <wire x1="261.62" y1="170.18" x2="261.62" y2="185.42" width="0.1524" layer="91"/>
 <wire x1="261.62" y1="185.42" x2="269.24" y2="185.42" width="0.1524" layer="91"/>
 <wire x1="269.24" y1="185.42" x2="269.24" y2="182.88" width="0.1524" layer="91"/>
-<pinref part="C12" gate="G$1" pin="1"/>
 <wire x1="269.24" y1="185.42" x2="271.78" y2="185.42" width="0.1524" layer="91"/>
 <junction x="269.24" y="185.42"/>
 <label x="271.78" y="185.42" size="1.27" layer="95" xref="yes"/>
+<pinref part="C12" gate="C$1" pin="1"/>
 </segment>
 </net>
 <net name="SWDIO" class="0">
@@ -4462,15 +4822,15 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <pinref part="L1" gate="L$1" pin="2"/>
 <wire x1="332.74" y1="142.24" x2="335.28" y2="142.24" width="0.1524" layer="91"/>
 <pinref part="ANT1" gate="G$1" pin="FEED"/>
-<pinref part="C22" gate="G$1" pin="1"/>
 <wire x1="335.28" y1="142.24" x2="345.44" y2="142.24" width="0.1524" layer="91"/>
 <wire x1="345.44" y1="142.24" x2="350.52" y2="142.24" width="0.1524" layer="91"/>
 <wire x1="345.44" y1="134.62" x2="345.44" y2="142.24" width="0.1524" layer="91"/>
 <junction x="345.44" y="142.24"/>
-<pinref part="C4" gate="G$1" pin="1"/>
 <wire x1="335.28" y1="134.62" x2="335.28" y2="142.24" width="0.1524" layer="91"/>
 <junction x="335.28" y="142.24"/>
 <label x="340.36" y="142.24" size="1.778" layer="95"/>
+<pinref part="C22" gate="C$1" pin="1"/>
+<pinref part="C4" gate="C$1" pin="1"/>
 </segment>
 </net>
 <net name="N$7" class="0">
@@ -4478,10 +4838,10 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <pinref part="L1" gate="L$1" pin="1"/>
 <wire x1="317.5" y1="142.24" x2="314.96" y2="142.24" width="0.1524" layer="91"/>
 <pinref part="U$1" gate="G$1" pin="ANT@H23"/>
-<pinref part="C3" gate="G$1" pin="1"/>
 <wire x1="314.96" y1="142.24" x2="279.4" y2="142.24" width="0.1524" layer="91"/>
 <wire x1="314.96" y1="134.62" x2="314.96" y2="142.24" width="0.1524" layer="91"/>
 <junction x="314.96" y="142.24"/>
+<pinref part="C3" gate="C$1" pin="1"/>
 </segment>
 </net>
 <net name="P0.09" class="0">
@@ -4551,16 +4911,15 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <segment>
 <pinref part="U$1" gate="G$1" pin="XC1@B24"/>
 <wire x1="279.4" y1="152.4" x2="325.12" y2="152.4" width="0.1524" layer="91"/>
-<pinref part="C1" gate="G$1" pin="1"/>
 <pinref part="X1" gate="X$1" pin="1"/>
 <wire x1="325.12" y1="152.4" x2="332.74" y2="152.4" width="0.1524" layer="91"/>
 <wire x1="325.12" y1="162.56" x2="325.12" y2="152.4" width="0.1524" layer="91"/>
 <junction x="325.12" y="152.4"/>
+<pinref part="C1" gate="C$1" pin="1"/>
 </segment>
 </net>
 <net name="N$10" class="0">
 <segment>
-<pinref part="C2" gate="G$1" pin="1"/>
 <wire x1="332.74" y1="175.26" x2="325.12" y2="175.26" width="0.1524" layer="91"/>
 <wire x1="325.12" y1="175.26" x2="314.96" y2="175.26" width="0.1524" layer="91"/>
 <wire x1="314.96" y1="175.26" x2="314.96" y2="154.94" width="0.1524" layer="91"/>
@@ -4569,6 +4928,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <pinref part="X1" gate="X$1" pin="3"/>
 <wire x1="325.12" y1="170.18" x2="325.12" y2="175.26" width="0.1524" layer="91"/>
 <junction x="325.12" y="175.26"/>
+<pinref part="C2" gate="C$1" pin="1"/>
 </segment>
 </net>
 <net name="DEC3" class="0">
@@ -4578,14 +4938,13 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <wire x1="297.18" y1="149.86" x2="297.18" y2="177.8" width="0.1524" layer="91"/>
 <wire x1="297.18" y1="177.8" x2="289.56" y2="177.8" width="0.1524" layer="91"/>
 <wire x1="289.56" y1="177.8" x2="289.56" y2="175.26" width="0.1524" layer="91"/>
-<pinref part="C11" gate="G$1" pin="1"/>
 <label x="292.1" y="177.8" size="1.27" layer="95"/>
+<pinref part="C11" gate="C$1" pin="1"/>
 </segment>
 </net>
 <net name="DEC4_6" class="0">
 <segment>
 <wire x1="302.26" y1="175.26" x2="302.26" y2="177.8" width="0.1524" layer="91"/>
-<pinref part="C10" gate="G$1" pin="1"/>
 <wire x1="302.26" y1="177.8" x2="309.88" y2="177.8" width="0.1524" layer="91"/>
 <pinref part="U$1" gate="G$1" pin="DEC6@E24"/>
 <wire x1="279.4" y1="147.32" x2="309.88" y2="147.32" width="0.1524" layer="91"/>
@@ -4597,7 +4956,6 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <wire x1="241.3" y1="205.74" x2="309.88" y2="205.74" width="0.1524" layer="91"/>
 <wire x1="309.88" y1="205.74" x2="309.88" y2="177.8" width="0.1524" layer="91"/>
 <junction x="309.88" y="177.8"/>
-<pinref part="C16" gate="G$1" pin="1"/>
 <wire x1="241.3" y1="203.2" x2="241.3" y2="205.74" width="0.1524" layer="91"/>
 <junction x="241.3" y="205.74"/>
 <pinref part="C15" gate="G$1" pin="1"/>
@@ -4610,6 +4968,8 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <pinref part="L3" gate="L$1" pin="2"/>
 <label x="226.06" y="205.74" size="1.27" layer="95"/>
 <label x="302.26" y="177.8" size="1.27" layer="95"/>
+<pinref part="C16" gate="C$1" pin="1"/>
+<pinref part="C10" gate="C$1" pin="1"/>
 </segment>
 </net>
 <net name="N$13" class="0">
@@ -4617,7 +4977,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <pinref part="U$1" gate="G$1" pin="DEC2@A18"/>
 <wire x1="254" y1="170.18" x2="254" y2="203.2" width="0.1524" layer="91"/>
 <wire x1="254" y1="203.2" x2="269.24" y2="203.2" width="0.1524" layer="91"/>
-<pinref part="C13" gate="G$1" pin="1"/>
+<pinref part="C13" gate="C$1" pin="1"/>
 </segment>
 </net>
 <net name="P1.10" class="0">
@@ -4726,8 +5086,8 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <wire x1="193.04" y1="152.4" x2="193.04" y2="177.8" width="0.1524" layer="91"/>
 <wire x1="193.04" y1="177.8" x2="182.88" y2="177.8" width="0.1524" layer="91"/>
 <wire x1="182.88" y1="177.8" x2="182.88" y2="175.26" width="0.1524" layer="91"/>
-<pinref part="C5" gate="G$1" pin="1"/>
 <label x="182.88" y="177.8" size="1.27" layer="95"/>
+<pinref part="C5" gate="C$1" pin="1"/>
 </segment>
 </net>
 <net name="N$17" class="0">
@@ -4739,8 +5099,8 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <wire x1="165.1" y1="175.26" x2="165.1" y2="172.72" width="0.1524" layer="91"/>
 <pinref part="X2" gate="X$1" pin="2"/>
 <wire x1="165.1" y1="175.26" x2="160.02" y2="175.26" width="0.1524" layer="91"/>
-<pinref part="C17" gate="G$1" pin="1"/>
 <junction x="165.1" y="175.26"/>
+<pinref part="C17" gate="C$1" pin="2"/>
 </segment>
 </net>
 <net name="N$18" class="0">
@@ -4749,10 +5109,10 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <wire x1="200.66" y1="147.32" x2="165.1" y2="147.32" width="0.1524" layer="91"/>
 <wire x1="165.1" y1="147.32" x2="165.1" y2="162.56" width="0.1524" layer="91"/>
 <pinref part="X2" gate="X$1" pin="1"/>
-<pinref part="C18" gate="G$1" pin="1"/>
 <wire x1="165.1" y1="162.56" x2="165.1" y2="165.1" width="0.1524" layer="91"/>
 <wire x1="160.02" y1="162.56" x2="165.1" y2="162.56" width="0.1524" layer="91"/>
 <junction x="165.1" y="162.56"/>
+<pinref part="C18" gate="C$1" pin="2"/>
 </segment>
 </net>
 <net name="P0.26" class="0">
@@ -4914,10 +5274,10 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <wire x1="241.3" y1="91.44" x2="241.3" y2="66.04" width="0.1524" layer="91"/>
 <wire x1="241.3" y1="66.04" x2="233.68" y2="66.04" width="0.1524" layer="91"/>
 <wire x1="233.68" y1="66.04" x2="233.68" y2="63.5" width="0.1524" layer="91"/>
-<pinref part="C7" gate="G$1" pin="1"/>
 <wire x1="233.68" y1="66.04" x2="231.14" y2="66.04" width="0.1524" layer="91"/>
 <junction x="233.68" y="66.04"/>
 <label x="231.14" y="66.04" size="1.016" layer="95" rot="R180" xref="yes"/>
+<pinref part="C7" gate="C$1" pin="1"/>
 </segment>
 <segment>
 <pinref part="TP_3.3V" gate="G$1" pin="TP"/>
@@ -4989,11 +5349,11 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <segment>
 <pinref part="U$1" gate="G$1" pin="VDD@AD23"/>
 <wire x1="279.4" y1="109.22" x2="297.18" y2="109.22" width="0.1524" layer="91"/>
-<pinref part="C8" gate="G$1" pin="1"/>
 <wire x1="297.18" y1="106.68" x2="297.18" y2="109.22" width="0.1524" layer="91"/>
 <wire x1="297.18" y1="109.22" x2="299.72" y2="109.22" width="0.1524" layer="91"/>
 <junction x="297.18" y="109.22"/>
 <label x="299.72" y="109.22" size="1.27" layer="95" xref="yes"/>
+<pinref part="C8" gate="C$1" pin="1"/>
 </segment>
 <segment>
 <pinref part="U$1" gate="G$1" pin="VDD@W1"/>
@@ -5097,7 +5457,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <pinref part="U$1" gate="G$1" pin="DEC5@N24"/>
 <wire x1="279.4" y1="134.62" x2="299.72" y2="134.62" width="0.1524" layer="91"/>
 <wire x1="299.72" y1="134.62" x2="299.72" y2="132.08" width="0.1524" layer="91"/>
-<pinref part="C9" gate="G$1" pin="1"/>
+<pinref part="C9" gate="C$1" pin="1"/>
 </segment>
 </net>
 </nets>
@@ -5180,7 +5540,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <instance part="SUPPLY38" gate="G$1" x="152.4" y="152.4" smashed="yes">
 <attribute name="VALUE" x="152.4" y="150.495" size="1.778" layer="96" align="center"/>
 </instance>
-<instance part="R_PWE_EPD" gate="G$1" x="180.34" y="185.42" smashed="yes" rot="R90">
+<instance part="R_PWR_EPD" gate="G$1" x="180.34" y="185.42" smashed="yes" rot="R90">
 <attribute name="NAME" x="176.53" y="191.77" size="1.778" layer="95" rot="R90" align="center-left"/>
 <attribute name="VALUE" x="180.34" y="191.77" size="1.778" layer="96" rot="R90" align="center-left"/>
 </instance>
@@ -5246,15 +5606,15 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <attribute name="NAME" x="354.32906875" y="121.92" size="1.77843125" layer="95" rot="R90"/>
 <attribute name="VALUE" x="363.22848125" y="121.92" size="1.78096875" layer="96" rot="R90"/>
 </instance>
-<instance part="R_PWE_EPD1" gate="G$1" x="358.14" y="142.24" smashed="yes" rot="R90">
+<instance part="R7" gate="G$1" x="358.14" y="142.24" smashed="yes" rot="R90">
 <attribute name="NAME" x="354.33" y="148.59" size="1.778" layer="95" rot="R90" align="center-left"/>
 <attribute name="VALUE" x="358.14" y="148.59" size="1.778" layer="96" rot="R90" align="center-left"/>
 </instance>
-<instance part="R_PWE_EPD2" gate="G$1" x="335.28" y="142.24" smashed="yes" rot="R90">
+<instance part="R8" gate="G$1" x="335.28" y="142.24" smashed="yes" rot="R90">
 <attribute name="NAME" x="331.47" y="148.59" size="1.778" layer="95" rot="R90" align="center-left"/>
 <attribute name="VALUE" x="335.28" y="148.59" size="1.778" layer="96" rot="R90" align="center-left"/>
 </instance>
-<instance part="R_PWE_EPD3" gate="G$1" x="312.42" y="142.24" smashed="yes" rot="R90">
+<instance part="R5" gate="G$1" x="312.42" y="142.24" smashed="yes" rot="R90">
 <attribute name="NAME" x="308.61" y="148.59" size="1.778" layer="95" rot="R90" align="center-left"/>
 <attribute name="VALUE" x="312.42" y="148.59" size="1.778" layer="96" rot="R90" align="center-left"/>
 </instance>
@@ -5358,10 +5718,6 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <attribute name="NAME" x="53.721" y="72.136" size="1.778" layer="95"/>
 <attribute name="VALUE" x="53.721" y="64.516" size="1.778" layer="96"/>
 </instance>
-<instance part="EPD_C5" gate="G$1" x="63.5" y="43.18" smashed="yes" rot="R270">
-<attribute name="NAME" x="58.801" y="44.196" size="1.016" layer="95"/>
-<attribute name="VALUE" x="58.801" y="41.656" size="1.016" layer="96"/>
-</instance>
 <instance part="EPD_C6" gate="G$1" x="76.2" y="35.56" smashed="yes" rot="R270">
 <attribute name="NAME" x="71.501" y="36.576" size="1.016" layer="95"/>
 <attribute name="VALUE" x="71.501" y="34.036" size="1.016" layer="96"/>
@@ -5390,6 +5746,10 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <attribute name="NAME" x="41.021" y="21.336" size="1.016" layer="95"/>
 <attribute name="VALUE" x="41.021" y="18.796" size="1.016" layer="96"/>
 </instance>
+<instance part="EPD_C5" gate="C$1" x="66.04" y="43.18" smashed="yes" rot="R90">
+<attribute name="NAME" x="67.056" y="47.879" size="1.778" layer="95" rot="R180"/>
+<attribute name="VALUE" x="64.516" y="42.799" size="1.778" layer="96" rot="R180"/>
+</instance>
 </instances>
 <busses>
 </busses>
@@ -5413,7 +5773,6 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <pinref part="J1" gate="G$1" pin="15"/>
 <wire x1="86.36" y1="43.18" x2="83.82" y2="43.18" width="0.1524" layer="91"/>
 <wire x1="83.82" y1="43.18" x2="71.12" y2="43.18" width="0.1524" layer="91"/>
-<pinref part="EPD_C5" gate="G$1" pin="1"/>
 <wire x1="83.82" y1="43.18" x2="83.82" y2="40.64" width="0.1524" layer="91"/>
 <pinref part="J1" gate="G$1" pin="16"/>
 <wire x1="86.36" y1="40.64" x2="83.82" y2="40.64" width="0.1524" layer="91"/>
@@ -5421,6 +5780,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <junction x="83.82" y="43.18"/>
 <junction x="83.82" y="40.64"/>
 <label x="81.28" y="40.64" size="1.016" layer="95" rot="R180" xref="yes"/>
+<pinref part="EPD_C5" gate="C$1" pin="2"/>
 </segment>
 </net>
 <net name="GND" class="0">
@@ -5608,7 +5968,6 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <pinref part="SUPPLY60" gate="G$1" pin="GND"/>
 </segment>
 <segment>
-<pinref part="EPD_C5" gate="G$1" pin="2"/>
 <wire x1="63.5" y1="43.18" x2="33.02" y2="43.18" width="0.1524" layer="91"/>
 <wire x1="33.02" y1="43.18" x2="33.02" y2="35.56" width="0.1524" layer="91"/>
 <pinref part="SUPPLY61" gate="G$1" pin="GND"/>
@@ -5640,6 +5999,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <pinref part="EPD_C12" gate="G$1" pin="2"/>
 <wire x1="45.72" y1="20.32" x2="33.02" y2="20.32" width="0.1524" layer="91"/>
 <junction x="33.02" y="20.32"/>
+<pinref part="EPD_C5" gate="C$1" pin="1"/>
 </segment>
 </net>
 <net name="N$6" class="0">
@@ -5792,7 +6152,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <segment>
 <pinref part="C29" gate="G$1" pin="2"/>
 <wire x1="358.14" y1="127" x2="358.14" y2="137.16" width="0.1524" layer="91"/>
-<pinref part="R_PWE_EPD1" gate="G$1" pin="1"/>
+<pinref part="R7" gate="G$1" pin="1"/>
 <pinref part="SW_DN" gate="A" pin="2"/>
 <wire x1="358.14" y1="137.16" x2="358.14" y2="142.24" width="0.1524" layer="91"/>
 <wire x1="347.98" y1="134.62" x2="347.98" y2="137.16" width="0.1524" layer="91"/>
@@ -5804,7 +6164,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 </net>
 <net name="P0.14" class="0">
 <segment>
-<pinref part="R_PWE_EPD2" gate="G$1" pin="1"/>
+<pinref part="R8" gate="G$1" pin="1"/>
 <wire x1="335.28" y1="142.24" x2="335.28" y2="137.16" width="0.1524" layer="91"/>
 <pinref part="C31" gate="G$1" pin="2"/>
 <pinref part="SW_ENT" gate="A" pin="2"/>
@@ -5820,7 +6180,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <segment>
 <pinref part="C30" gate="G$1" pin="2"/>
 <wire x1="312.42" y1="127" x2="312.42" y2="137.16" width="0.1524" layer="91"/>
-<pinref part="R_PWE_EPD3" gate="G$1" pin="1"/>
+<pinref part="R5" gate="G$1" pin="1"/>
 <pinref part="SW_UP" gate="A" pin="2"/>
 <wire x1="312.42" y1="137.16" x2="312.42" y2="142.24" width="0.1524" layer="91"/>
 <wire x1="302.26" y1="134.62" x2="302.26" y2="137.16" width="0.1524" layer="91"/>
@@ -5996,7 +6356,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <pinref part="Q1" gate="G$1" pin="G"/>
 <wire x1="187.96" y1="177.8" x2="180.34" y2="177.8" width="0.1524" layer="91"/>
 <wire x1="180.34" y1="177.8" x2="180.34" y2="185.42" width="0.1524" layer="91"/>
-<pinref part="R_PWE_EPD" gate="G$1" pin="1"/>
+<pinref part="R_PWR_EPD" gate="G$1" pin="1"/>
 <wire x1="180.34" y1="177.8" x2="177.8" y2="177.8" width="0.1524" layer="91"/>
 <junction x="180.34" y="177.8"/>
 <label x="177.8" y="177.8" size="1.016" layer="95" rot="R180" xref="yes"/>
@@ -6009,7 +6369,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <label x="195.58" y="170.18" size="1.016" layer="95" rot="R270" xref="yes"/>
 </segment>
 <segment>
-<pinref part="R_PWE_EPD" gate="G$1" pin="2"/>
+<pinref part="R_PWR_EPD" gate="G$1" pin="2"/>
 <wire x1="180.34" y1="203.2" x2="180.34" y2="205.74" width="0.1524" layer="91"/>
 <label x="180.34" y="205.74" size="1.016" layer="95" rot="R90" xref="yes"/>
 </segment>
@@ -6023,15 +6383,15 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <junction x="358.14" y="213.36"/>
 </segment>
 <segment>
-<pinref part="R_PWE_EPD3" gate="G$1" pin="2"/>
+<pinref part="R5" gate="G$1" pin="2"/>
 <wire x1="312.42" y1="160.02" x2="312.42" y2="162.56" width="0.1524" layer="91"/>
 <wire x1="312.42" y1="162.56" x2="335.28" y2="162.56" width="0.1524" layer="91"/>
-<pinref part="R_PWE_EPD2" gate="G$1" pin="2"/>
+<pinref part="R8" gate="G$1" pin="2"/>
 <wire x1="335.28" y1="162.56" x2="358.14" y2="162.56" width="0.1524" layer="91"/>
 <wire x1="358.14" y1="162.56" x2="363.22" y2="162.56" width="0.1524" layer="91"/>
 <wire x1="335.28" y1="160.02" x2="335.28" y2="162.56" width="0.1524" layer="91"/>
 <junction x="335.28" y="162.56"/>
-<pinref part="R_PWE_EPD1" gate="G$1" pin="2"/>
+<pinref part="R7" gate="G$1" pin="2"/>
 <wire x1="358.14" y1="160.02" x2="358.14" y2="162.56" width="0.1524" layer="91"/>
 <junction x="358.14" y="162.56"/>
 <label x="363.22" y="162.56" size="1.27" layer="95" xref="yes"/>
